@@ -15,7 +15,7 @@ The project is created from STM32CubeIDE software.
 
 For a different IDE, you can open the .ioc file with STM32CubeMX, change the Toolchain / IDE selection from the Project Manager tab and generate the new project structure. In this scenario is better to copy the .ioc file to a new folder before generating the project.
 
-You can also use [this repo] [vscode repo] for a VSCode version.
+You can also use [this repo][vscode repo] for a VSCode version.
 
 
 ## How sample works
